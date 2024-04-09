@@ -5,6 +5,7 @@
     "manifest_version":3,
     "action":{
         "default_popup":"popup.html",
-        "default_title":"Live IPL Score"
+        "default_title":"Live IPL Score",
+        "default_icon":"logo.png"
     }
 }
